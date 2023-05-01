@@ -1,0 +1,81 @@
+
+
+	.banner{
+			text-align: center;
+
+			background-color:#1a75ff;
+			width: 80%;
+			height: 100px;
+
+			border: solid;
+			border-radius: 15px;
+
+		}
+
+		.indice/*estilo de div*/
+		{
+			background-color: #cce6ff;
+			float:left;
+
+			font-family:verdana;
+			color:blue;
+			width:20%;
+			height:600px;
+			text-align: center;/*para centrar un texto*/
+	
+			border-radius:15px;
+			/*border-color: red;/*colorear contorno del div
+			border-style: solid;*/
+		}
+
+
+		.centro
+		{
+			
+
+			width:80%;
+			height:600px;
+
+			/*border-color: red;/*colorear contorno del div
+			border-style: solid;*/
+		}
+
+		.cuerpo
+		{	
+			background-color: #cce6ff;
+
+			width:60%;
+			height:2450px;
+			
+			/*border-color: blue;/*colorear contorno del div
+			border-style: solid;*/
+			border-radius:15px;
+		}
+
+
+
+		/*///////////////////////////////
+		/*parte de titulos:*/
+
+		.titulo
+		{
+			font-size:35px;
+			font-weight:bold;
+
+		}
+
+
+		.subtitulo
+		{
+			font-size:30px;
+		}
+
+		.subtitulo_dos
+		{
+			font-size:22px;
+		}
+
+		.left
+		{
+			text-align: left;
+		}
